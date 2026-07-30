@@ -41,6 +41,7 @@ leetcode-solutions/
 | Day | Date | Problem Title | Difficulty | Language | Solution |
 | :---: | :---: | :--- | :---: | :---: | :---: |
 | Day 1 | Jul 29, 2026 | [001. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | JavaScript | [solution.js](./001-Two-Sum/solution.js) |
+| Day 2 | Jul 30, 2026 | [002. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | JavaScript | [solution.js](./002-Add-Two-Number/solution.js) |
 
 ---
 
